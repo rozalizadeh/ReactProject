@@ -1,5 +1,5 @@
 const age: number =30;
-const requiredAge =20;
+const requiredAge:number =20;
 if(age<20){
   console.log("you are not allowed");
 }
