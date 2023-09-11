@@ -9,4 +9,5 @@ switch(lightColor){
   case "green" :
   console.log("yellow");
   break;
+  
 }
